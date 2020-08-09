@@ -1,0 +1,14 @@
+CAR_ID,BRAND,MODEL,MODEL_YEAR,FUEL_TYPE,TRANSMISSION_TYPE,ENGINE_HP,SHOWROOM_PRICE,ACTIVE_FLAG,SOURCE_CREATE_DATE,SOURCE_UPDATE_DATE,SOURCE
+101,Volkswagen,Golf GTI,2012,,Manual,210,24785.25,,1-Aug-20,1-Aug-20,Avis
+102,Mercedes-Benz,GLK-Class,2013,Diesel,Automatic,302,39090.82,Y,1-Aug-20,1-Aug-20,Avis
+103,Honda,Accord,2017,,Automatic,212,35955.66,,1-Aug-20,1-Aug-20,Avis
+104,Volvo,240,1993,Petrol,,-,2000,N,1-Aug-20,1-Aug-20,Avis
+105,BMW,3 Series,,Petrol,Automatic,300,43750,Y,1-Aug-20,1-Aug-20,Avis
+106,,X Series,2018,Petrol,Automatic,300,43750,Y,1-Aug-20,1-Aug-20,Avis
+Z-001,Hyundai,Elantra Coupe,2014,Petrol,Automatic,173,19600,,1-Aug-20,1-Aug-20,Zoomcar
+Z-002,Hyundai,Sonata,2015,Diesel,Automatic,185,23175,,1-Aug-20,1-Aug-20,Zoomcar
+Z-003,Tesla,Model S,2016,electric,Direct_Drive,,112000,,1-Aug-20,1-Aug-20,Zoomcar
+Z-004,Mitsubishi,3000GT,1999,,Manual,161,4090,,1-Aug-20,1-Aug-20,Zoomcar
+Z-005,Nissan,350Z,2007,-,Manual,306,27900,,1-Aug-20,1-Aug-20,Zoomcar
+Z-006,Honda,Accord Hybrid,2017,Diesel,Automatic,212,35955,,1-Aug-20,1-Aug-20,Zoomcar
+Z-007,,CRV,2017,Diesel,Automatic,212,6523,,1-Aug-20,1-Aug-20,Zoomcar
